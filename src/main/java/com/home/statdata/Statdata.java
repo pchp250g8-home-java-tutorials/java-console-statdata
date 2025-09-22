@@ -18,7 +18,7 @@ public class Statdata
         var rnd = new Random();
         var nArrayLen = AData.length;
         var nMediane = 0;
-        ArrayList nModes = new ArrayList();
+        var nModes = new ArrayList<>();
         //----------------------------------------------------------------------
         nModes.clear();
         System.out.println("Generating Statictic Data:");
